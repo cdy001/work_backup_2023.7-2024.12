@@ -1,0 +1,33 @@
+#!/bin/env bash
+# Description: /mybin/myvim scripts
+# Auth: kaliarch
+# Email: kaliarch@163.com
+# function: auto generate banner
+# Date: 2020-02-15 13:36
+# Version: 1.0
+
+
+# file not exist
+[ $# -eq 0 ] && echo "$0 [file],At least one parameter!" && exit 1
+
+# add banner
+add_banner() {
+cat > $1 << EOF
+#!/bin/env bash
+# Description: $0 scripts
+# Auth: $USER
+# Date: $(date +%F" "%H:%M)
+# Version: 1.0
+EOF
+}
+
+# exist file
+for file in $*;
+do
+    if [ -f ${file} ];then
+        vim ${file} && exit 0
+    else
+        touch ${file} && add_banner ${file} && vim ${file} && exit 0
+    fi
+done
+

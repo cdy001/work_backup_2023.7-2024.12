@@ -1,0 +1,10 @@
+{
+    "data_path": "/var/cdy_data/aoyang/data/BGB2X77G",
+    "pretrained": "pretrained/2X77G-0810.h5",
+    "label_path": "label/aoyang_labels.txt",
+    "image_height": 1060,
+    "image_width": 1060,
+    "batch_size": 8,
+    "lr": 0.00001,
+    "epochs": 301
+}

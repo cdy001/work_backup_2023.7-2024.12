@@ -1,0 +1,186 @@
+{
+    "XOC2D58B-SANXING": {
+        "binary_args": {
+            "threshold": 100, "binary_type": "THRESH_BINARY",
+            "open_close_type": "MORPH_OPEN", "struct_element_tuple": [5, 5]},
+        "image_args": {
+            "die_height": 78, "die_width": 78,
+            "margin_x": 5, "margin_y": 5}
+    },
+    "BOC0W38B-SANXING": {
+        "binary_args": {
+            "threshold": 100, "binary_type": "THRESH_BINARY",
+            "open_close_type": "MORPH_OPEN", "struct_element_tuple": [5, 5]},
+        "image_args": {
+            "die_height": 50, "die_width": 30,
+            "margin_x": 5, "margin_y": 5}
+    },
+    "XOC1M40I-SANXING": {
+        "binary_args": {
+            "threshold": 100, "binary_type": "THRESH_BINARY",
+            "open_close_type": "MORPH_OPEN", "struct_element_tuple": [5, 5]},
+        "image_args": {
+            "die_height": 54, "die_width": 54,
+            "margin_x": 5, "margin_y": 5}
+    },
+    "BOC1V49A-SANXING": {
+        "binary_args": {
+            "threshold": 100, "binary_type": "THRESH_BINARY",
+            "open_close_type": "MORPH_OPEN", "struct_element_tuple": [5, 5]},
+        "image_args": {
+            "die_height": 69, "die_width": 67,
+            "margin_x": 5, "margin_y": 5}
+    },
+    "BWC1N42B-SANXING": {
+        "binary_args": {
+            "threshold": 100, "binary_type": "THRESH_BINARY",
+            "open_close_type": "MORPH_OPEN", "struct_element_tuple": [5, 5]},
+        "image_args": {
+            "die_height": 58, "die_width": 58,
+            "margin_x": 5, "margin_y": 5}
+    },
+    "XOC1M40F-SANXING": {
+        "binary_args": {
+            "threshold": 100, "binary_type": "THRESH_BINARY",
+            "open_close_type": "MORPH_OPEN", "struct_element_tuple": [5, 5]},
+        "image_args": {
+            "die_height": 54, "die_width": 53,
+            "margin_x": 5, "margin_y": 5}
+    },
+    "BPB0I16I": {
+        "binary_args": {
+            "threshold": 100, "binary_type": "THRESH_BINARY",
+            "open_close_type": "MORPH_OPEN", "struct_element_tuple": [3, 3]},
+        "image_args": {
+            "die_height": 19, "die_width": 12,
+            "margin_x": 5, "margin_y": 5}
+    },
+    "BDW0S38B": {
+        "binary_args": {
+            "threshold": 100, "binary_type": "THRESH_BINARY",
+            "open_close_type": "MORPH_OPEN", "struct_element_tuple": [5, 5]},
+        "image_args": {
+            "die_height": 28, "die_width": 50,
+            "margin_x": 5, "margin_y": 5}
+    },
+    "BDW0S38D": {
+        "binary_args": {
+            "threshold": 100, "binary_type": "THRESH_BINARY",
+            "open_close_type": "MORPH_OPEN", "struct_element_tuple": [5, 5]},
+        "image_args": {
+            "die_height": 28, "die_width": 50,
+            "margin_x": 5, "margin_y": 5}
+    },
+    "BPB0L32K": {
+        "binary_args": {
+            "threshold": 80, "binary_type": "THRESH_BINARY",
+            "open_close_type": "MORPH_OPEN", "struct_element_tuple": [3, 3]},
+        "image_args": {
+            "die_height": 17, "die_width": 43,
+            "margin_x": 5, "margin_y": 5}
+    },
+    "BDC0J18D-SANXING": {
+        "binary_args": {
+            "threshold": 130, "binary_type": "THRESH_BINARY",
+            "open_close_type": "MORPH_OPEN", "struct_element_tuple": [3, 3]},
+        "image_args": {
+            "die_height": 14, "die_width": 23,
+            "margin_x": 5, "margin_y": 5}
+    },
+    "BPB0I27L": {
+        "binary_args": {
+            "threshold": 130, "binary_type": "THRESH_BINARY",
+            "open_close_type": "MORPH_OPEN", "struct_element_tuple": [3, 3]},
+        "image_args": {
+            "die_height": 12, "die_width": 36,
+            "margin_x": 5, "margin_y": 5}
+    },
+    "BPB0V37B": {
+        "binary_args": {
+            "threshold": 130, "binary_type": "THRESH_BINARY",
+            "open_close_type": "MORPH_OPEN", "struct_element_tuple": [3, 3]},
+        "image_args": {
+            "die_height": 32, "die_width": 52,
+            "margin_x": 5, "margin_y": 5}
+    },
+    "BHM0N31A": {
+        "binary_args": {
+            "threshold": 130, "binary_type": "THRESH_BINARY",
+            "open_close_type": "MORPH_OPEN", "struct_element_tuple": [3, 3]},
+        "image_args": {
+            "die_height": 20, "die_width": 43,
+            "margin_x": 5, "margin_y": 5}
+    },
+    "BDW0M30B": {
+        "binary_args": {
+            "threshold": 130, "binary_type": "THRESH_BINARY",
+            "open_close_type": "MORPH_OPEN", "struct_element_tuple": [5, 5]},
+        "image_args": {
+            "die_height": 18, "die_width": 38,
+            "margin_x": 5, "margin_y": 5}
+    },
+    "BPB0Q35G": {
+        "binary_args": {
+            "threshold": 50, "binary_type": "THRESH_BINARY",
+            "open_close_type": "MORPH_OPEN", "struct_element_tuple": [5, 5]},
+        "image_args": {
+            "die_height": 24, "die_width": 50,
+            "margin_x": 5, "margin_y": 5}
+    },
+    "BPB0X43G": {
+        "binary_args": {
+            "threshold": 50, "binary_type": "THRESH_BINARY",
+            "open_close_type": "MORPH_OPEN", "struct_element_tuple": [5, 5]},
+        "image_args": {
+            "die_height": 33, "die_width": 57,
+            "margin_x": 5, "margin_y": 5}
+    },
+    "BPB0I27S": {
+        "binary_args": {
+            "threshold": 70, "binary_type": "THRESH_BINARY",
+            "open_close_type": "MORPH_OPEN", "struct_element_tuple": [3, 3]},
+        "image_args": {
+            "die_height": 10, "die_width": 32,
+            "margin_x": 5, "margin_y": 5}
+    },
+    "BPB1B42E": {
+        "binary_args": {
+            "threshold": 70, "binary_type": "THRESH_BINARY",
+            "open_close_type": "MORPH_OPEN", "struct_element_tuple": [5, 5]},
+        "image_args": {
+            "die_height": 37, "die_width": 58,
+            "margin_x": 5, "margin_y": 5}
+    },
+    "BPB0R37Q": {
+        "binary_args": {
+            "threshold": 70, "binary_type": "THRESH_BINARY",
+            "open_close_type": "MORPH_OPEN", "struct_element_tuple": [5, 5]},
+        "image_args": {
+            "die_height": 24, "die_width": 50,
+            "margin_x": 5, "margin_y": 5}
+    },
+    "BPB0W36C": {
+        "binary_args": {
+            "threshold": 70, "binary_type": "THRESH_BINARY",
+            "open_close_type": "MORPH_OPEN", "struct_element_tuple": [5, 5]},
+        "image_args": {
+            "die_height": 32, "die_width": 50,
+            "margin_x": 5, "margin_y": 5}
+    },
+    "BPB0Z53D": {
+        "binary_args": {
+            "threshold": 70, "binary_type": "THRESH_BINARY",
+            "open_close_type": "MORPH_OPEN", "struct_element_tuple": [5, 5]},
+        "image_args": {
+            "die_height": 36, "die_width": 76,
+            "margin_x": 5, "margin_y": 5}
+    },
+    "BPB0Z54B": {
+        "binary_args": {
+            "threshold": 70, "binary_type": "THRESH_BINARY",
+            "open_close_type": "MORPH_OPEN", "struct_element_tuple": [5, 5]},
+        "image_args": {
+            "die_height": 38, "die_width": 74,
+            "margin_x": 5, "margin_y": 5}
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "3535": {
+        "binary_args": {
+            "threshold": 100, "binary_type": "THRESH_BINARY",
+            "open_close_type": "MORPH_CLOSE", "struct_element_tuple": [10, 10]},
+        "image_args": {
+            "refer_light": "L2", "light_list": ["L1", "L2"],
+            "die_height": 576, "die_width": 576,
+            "margin_x": 20, "margin_y": 20,
+            "L1_offset": [0, 0]},
+        "model_args": {"resize_y": 616, "resize_x": 616, "batch_size": 96}
+    },
+    "BGB1Q42E": {
+        "binary_args": {
+            "threshold": 100, "binary_type": "THRESH_BINARY",
+            "open_close_type": "MORPH_CLOSE", "struct_element_tuple": [20, 20]},
+        "image_args": {
+            "refer_light": "L1", "light_list": ["L1", "L2"],
+            "die_height": 662, "die_width": 662,
+            "margin_x": 20, "margin_y": 20,
+            "L1_offset": [0, 0]},
+        "model_args": {"resize_y": 682, "resize_x": 682, "batch_size": 24}
+    }
+}

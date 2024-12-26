@@ -1,0 +1,13 @@
+{
+    "thresh": 200,
+    "binary_type": 1,
+    "morph_type": 2,
+    "morph_size_x": 10,
+    "morph_size_y":10,
+    "die_width": 728,
+    "die_height": 142,
+    "margin_x": 10,
+    "margin_y": 10,
+    "img_width": 6464,
+    "img_height":4852
+}

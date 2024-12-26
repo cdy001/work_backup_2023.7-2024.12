@@ -1,0 +1,10 @@
+{
+    "data_path": "/var/cdy_data/aoyang/data/BWB1P29A",
+    "pretrained": "pretrained/1B29A-0629.h5",
+    "label_path": "label/aoyang_labels.txt",
+    "image_height": 520,
+    "image_width": 490,
+    "batch_size": 8,
+    "lr": 0.00001,
+    "epochs": 301
+}

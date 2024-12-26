@@ -1,0 +1,10 @@
+README.md
+setup.py
+node_information/__init__.py
+node_information/__version__.py
+node_information/node.py
+node_information/utils.py
+node_information.egg-info/PKG-INFO
+node_information.egg-info/SOURCES.txt
+node_information.egg-info/dependency_links.txt
+node_information.egg-info/top_level.txt

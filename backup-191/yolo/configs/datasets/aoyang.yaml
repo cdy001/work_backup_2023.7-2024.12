@@ -1,0 +1,59 @@
+# YOLOv5 ? by Ultralytics, AGPL-3.0 license
+# COCO128 dataset https://www.kaggle.com/ultralytics/coco128 (first 128 images from COCO train2017) by Ultralytics
+# Example usage: python train.py --data coco128.yaml
+# parent
+# ©À©¤©¤ yolov5
+# ©¸©¤©¤ datasets
+#     ©¸©¤©¤ coco128  ¡û downloads here (7 MB)
+
+nc: 42
+# Train/val/test sets as 1) dir: path/to/imgs, 2) file: path/to/imgs.txt, or 3) list: [path/to/imgs1, path/to/imgs2, ..]
+path: /var/cdy_data/obj_det/BGB1Q42E-D_train_val_v2 # dataset root dir
+train: train  # train images (relative to 'path') 128 images
+val: val  # val images (relative to 'path') 128 images
+test:  # test images (optional)
+
+# Classes
+names:
+  0: Good
+  1: Mark
+  2: Epitaxy_line
+  3: Epitaxy_ring
+  4: Epitaxy_point
+  5: Epitaxy_others
+  6: Luminous_dirty
+  7: Luminous_colordif
+  8: Luminous_excess_metal
+  9: Luminous_ITO
+  10: Luminous_PV
+  11: Luminous_CBL
+  12: Luminous_uneven_color
+  13: Luminous_back_missing
+  14: Luminous_scratch
+  15: Luminous_hole_clogged
+  16: Luminous_hole_missing
+  17: Luminous_breakdown
+  18: Luminous_others
+  19: Electrode_dirty
+  20: Electrode_scratch
+  21: Electrode_needle
+  22: Electrode_needle_slant
+  23: Electrode_missing
+  24: Electrode_yellow
+  25: Electrode_slant
+  26: Electrode_raise_glue
+  27: Electrode_erode
+  28: Electrode_rough
+  29: Electrode_indentation
+  30: Electrode_glue
+  31: Electrode_others
+  32: Finger_fracture
+  33: Finger_scratch
+  34: Finger_others
+  35: Mesa_excess_metal
+  36: Mesa_fracture
+  37: Mesa_poor_cutting
+  38: Mesa_chipping
+  39: Mesa_others
+  40: Cutting_double_twin
+  41: Cutting_broken

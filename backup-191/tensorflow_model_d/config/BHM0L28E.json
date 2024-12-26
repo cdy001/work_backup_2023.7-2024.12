@@ -1,0 +1,10 @@
+{
+    "data_path": "/var/cdy_data/aoyang/data/BHM0L28E",
+    "pretrained": "pretrained/L28E-0816.h5",
+    "label_path": "label/aoyang_labels.txt",
+    "image_height": 457,
+    "image_width": 195,
+    "batch_size": 64,
+    "lr": 0.00001,
+    "epochs": 301
+}

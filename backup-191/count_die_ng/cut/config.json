@@ -1,0 +1,438 @@
+{
+    "XOC2D58B-SANXING": {
+        "binary_args": {
+            "lower_threshold": 70, "upper_threshold": 255, "binary_type": "THRESH_BINARY",
+            "open_close_type": "MORPH_OPEN", "struct_element_tuple": [5, 5]},
+        "image_args": {
+            "die_height": 78, "die_width": 78,
+            "margin_x": 5, "margin_y": 5}
+    },
+    "BOC0W38B-SANXING": {
+        "binary_args": {
+            "lower_threshold": 70, "upper_threshold": 255, "binary_type": "THRESH_BINARY",
+            "open_close_type": "MORPH_OPEN", "struct_element_tuple": [5, 5]},
+        "image_args": {
+            "die_height": 50, "die_width": 30,
+            "margin_x": 5, "margin_y": 5}
+    },
+    
+    "BOC1V49A-SANXING": {
+        "binary_args": {
+            "lower_threshold": 70, "upper_threshold": 255, "binary_type": "THRESH_BINARY",
+            "open_close_type": "MORPH_OPEN", "struct_element_tuple": [5, 5]},
+        "image_args": {
+            "die_height": 69, "die_width": 67,
+            "margin_x": 5, "margin_y": 5}
+    },
+    "BWC1N42B-SANXING": {
+        "binary_args": {
+            "lower_threshold": 70, "upper_threshold": 255, "binary_type": "THRESH_BINARY",
+            "open_close_type": "MORPH_OPEN", "struct_element_tuple": [5, 5]},
+        "image_args": {
+            "die_height": 58, "die_width": 58,
+            "margin_x": 5, "margin_y": 5}
+    },
+    "XOC1M40F-SANXING": {
+        "binary_args": {
+            "lower_threshold": 70, "upper_threshold": 255, "binary_type": "THRESH_BINARY",
+            "open_close_type": "MORPH_OPEN", "struct_element_tuple": [5, 5]},
+        "image_args": {
+            "die_height": 54, "die_width": 53,
+            "margin_x": 5, "margin_y": 5}
+    },
+    "BDW0S38D": {
+        "binary_args": {
+            "lower_threshold": 70, "upper_threshold": 255, "binary_type": "THRESH_BINARY",
+            "open_close_type": "MORPH_OPEN", "struct_element_tuple": [5, 5]},
+        "image_args": {
+            "die_height": 28, "die_width": 50,
+            "margin_x": 5, "margin_y": 5}
+    },
+    "BPB0L32K": {
+        "binary_args": {
+            "lower_threshold": 70, "upper_threshold": 255, "binary_type": "THRESH_BINARY",
+            "open_close_type": "MORPH_OPEN", "struct_element_tuple": [3, 3]},
+        "image_args": {
+            "die_height": 17, "die_width": 43,
+            "margin_x": 5, "margin_y": 5}
+    },
+    "BDC0J18D-SANXING": {
+        "binary_args": {
+            "lower_threshold": 120, "upper_threshold": 255, "binary_type": "THRESH_BINARY",
+            "open_close_type": "MORPH_OPEN", "struct_element_tuple": [3, 3]},
+        "image_args": {
+            "die_height": 14, "die_width": 23,
+            "margin_x": 5, "margin_y": 5}
+    },
+    "BPB0I27L": {
+        "binary_args": {
+            "lower_threshold": 100, "upper_threshold": 255, "binary_type": "THRESH_BINARY",
+            "open_close_type": "MORPH_OPEN", "struct_element_tuple": [3, 3]},
+        "image_args": {
+            "die_height": 12, "die_width": 36,
+            "margin_x": 5, "margin_y": 5}
+    },
+    "BDW0M30B": {
+        "binary_args": {
+            "lower_threshold": 70, "upper_threshold": 255, "binary_type": "THRESH_BINARY",
+            "open_close_type": "MORPH_OPEN", "struct_element_tuple": [5, 5]},
+        "image_args": {
+            "die_height": 18, "die_width": 38,
+            "margin_x": 5, "margin_y": 5}
+    },
+    
+    
+    "BPB0I27S": {
+        "binary_args": {
+            "lower_threshold": 70, "upper_threshold": 255, "binary_type": "THRESH_BINARY",
+            "open_close_type": "MORPH_OPEN", "struct_element_tuple": [3, 3]},
+        "image_args": {
+            "die_height": 10, "die_width": 32,
+            "margin_x": 5, "margin_y": 5}
+    },
+    "BPB1B42E": {
+        "binary_args": {
+            "lower_threshold": 70, "upper_threshold": 255, "binary_type": "THRESH_BINARY",
+            "open_close_type": "MORPH_OPEN", "struct_element_tuple": [5, 5]},
+        "image_args": {
+            "die_height": 37, "die_width": 58,
+            "margin_x": 5, "margin_y": 5}
+    },
+    
+    "BPB0W36C": {
+        "binary_args": {
+            "lower_threshold": 70, "upper_threshold": 255, "binary_type": "THRESH_BINARY",
+            "open_close_type": "MORPH_OPEN", "struct_element_tuple": [5, 5]},
+        "image_args": {
+            "die_height": 32, "die_width": 50,
+            "margin_x": 5, "margin_y": 5}
+    },
+    "BPB0Z53D": {
+        "binary_args": {
+            "lower_threshold": 70, "upper_threshold": 255, "binary_type": "THRESH_BINARY",
+            "open_close_type": "MORPH_OPEN", "struct_element_tuple": [5, 5]},
+        "image_args": {
+            "die_height": 36, "die_width": 76,
+            "margin_x": 5, "margin_y": 5}
+    },
+    
+    "BPJ0J48X": {
+        "binary_args": {
+            "lower_threshold": 70, "upper_threshold": 255, "binary_type": "THRESH_BINARY",
+            "open_close_type": "MORPH_OPEN", "struct_element_tuple": [5, 5]},
+        "image_args": {
+            "die_height": 14, "die_width": 62,
+            "margin_x": 5, "margin_y": 5}
+    },
+
+
+
+
+
+    "GPB0H13H": {
+        "binary_args": {
+            "lower_threshold": 0, "upper_threshold": 210,
+            "binary_type": "THRESH_BINARY", "open_close_type": "MORPH_OPEN",
+            "struct_element_tuple": [1, 1]},
+        "image_args": {
+            "die_height": 7, "die_width": 9,
+            "margin_x": 5, "margin_y": 5}
+    },
+    "BPB0Z53E": {
+        "binary_args": {
+            "lower_threshold": 50, "upper_threshold": 255,
+            "binary_type": "THRESH_BINARY", "open_close_type": "MORPH_OPEN",
+            "struct_element_tuple": [3, 3]},
+        "image_args": {
+            "die_height": 36, "die_width": 70,
+            "margin_x": 5, "margin_y": 5}
+    },
+    "BHB0W45E": {
+        "binary_args": {
+            "lower_threshold": 50, "upper_threshold": 255,
+            "binary_type": "THRESH_BINARY", "open_close_type": "MORPH_OPEN",
+            "struct_element_tuple": [3, 3]},
+        "image_args": {
+            "die_height": 32, "die_width": 58,
+            "margin_x": 5, "margin_y": 5}
+    },
+    "BDW0M30C": {
+        "binary_args": {
+            "lower_threshold": 65, "upper_threshold": 255,
+            "binary_type": "THRESH_BINARY", "open_close_type": "MORPH_OPEN",
+            "struct_element_tuple": [5, 5]},
+        "image_args": {
+            "die_height": 18, "die_width": 40,
+            "margin_x": 5, "margin_y": 5}
+    },
+    "BPB0Q35G": {
+        "binary_args": {
+            "lower_threshold": 50, "upper_threshold": 255,
+            "binary_type": "THRESH_BINARY", "open_close_type": "MORPH_OPEN",
+            "struct_element_tuple": [5, 5]},
+        "image_args": {
+            "die_height": 24, "die_width": 50,
+            "margin_x": 5, "margin_y": 5}
+    },
+    "BPB0R37Q": {
+        "binary_args": {
+            "lower_threshold": 70, "upper_threshold": 255,
+            "binary_type": "THRESH_BINARY", "open_close_type": "MORPH_OPEN",
+            "struct_element_tuple": [5, 5]},
+        "image_args": {
+            "die_height": 24, "die_width": 50,
+            "margin_x": 5, "margin_y": 5}
+    },
+    "BMB1T47A": {
+        "binary_args": {
+            "lower_threshold": 50, "upper_threshold": 255,
+            "binary_type": "THRESH_BINARY", "open_close_type": "MORPH_OPEN",
+            "struct_element_tuple": [5, 5]},
+        "image_args": {
+            "die_height": 66, "die_width": 66,
+            "margin_x": 5, "margin_y": 5}
+    },
+    "BHM0L28E": {
+        "binary_args": {
+            "lower_threshold": 70, "upper_threshold": 255,
+            "binary_type": "THRESH_BINARY", "open_close_type": "MORPH_OPEN",
+            "struct_element_tuple": [5, 5]},
+        "image_args": {
+            "die_height": 16, "die_width": 34,
+            "margin_x": 5, "margin_y": 5}
+    },
+    "BHM0M33A": {
+        "binary_args": {
+            "lower_threshold": 70, "upper_threshold": 255,
+            "binary_type": "THRESH_BINARY", "open_close_type": "MORPH_OPEN",
+            "struct_element_tuple": [5, 5]},
+        "image_args": {
+            "die_height": 20, "die_width": 44,
+            "margin_x": 5, "margin_y": 5}
+    },
+    "BHM0N31A": {
+        "binary_args": {
+            "lower_threshold": 70, "upper_threshold": 255,
+            "binary_type": "THRESH_BINARY", "open_close_type": "MORPH_OPEN",
+            "struct_element_tuple": [3, 3]},
+        "image_args": {
+            "die_height": 20, "die_width": 43,
+            "margin_x": 5, "margin_y": 5}
+    },
+    "BHW0L28B": {
+        "binary_args": {
+            "lower_threshold": 70, "upper_threshold": 255,
+            "binary_type": "THRESH_BINARY", "open_close_type": "MORPH_OPEN",
+            "struct_element_tuple": [3, 3]},
+        "image_args": {
+            "die_height": 15, "die_width": 37,
+            "margin_x": 5, "margin_y": 5}
+    },
+    "BPB0J44O": {
+        "binary_args": {
+            "lower_threshold": 70, "upper_threshold": 255,
+            "binary_type": "THRESH_BINARY", "open_close_type": "MORPH_OPEN",
+            "struct_element_tuple": [3, 3]},
+        "image_args": {
+            "die_height": 12, "die_width": 56,
+            "margin_x": 5, "margin_y": 5}
+    },
+    "BPB0V37B": {
+        "binary_args": {
+            "lower_threshold": 50, "upper_threshold": 255,
+            "binary_type": "THRESH_BINARY", "open_close_type": "MORPH_OPEN",
+            "struct_element_tuple": [3, 3]},
+        "image_args": {
+            "die_height": 32, "die_width": 52,
+            "margin_x": 5, "margin_y": 5}
+    },
+    "BPB0X43G": {
+        "binary_args": {
+            "lower_threshold": 50, "upper_threshold": 255,
+            "binary_type": "THRESH_BINARY", "open_close_type": "MORPH_OPEN",
+            "struct_element_tuple": [5, 5]},
+        "image_args": {
+            "die_height": 33, "die_width": 57,
+            "margin_x": 5, "margin_y": 5}
+    },
+    "XOC1M40I-SANXING": {
+        "binary_args": {
+            "lower_threshold": 100, "upper_threshold": 255,
+            "binary_type": "THRESH_BINARY", "open_close_type": "MORPH_OPEN",
+            "struct_element_tuple": [5, 5]},
+        "image_args": {
+            "die_height": 54, "die_width": 54,
+            "margin_x": 5, "margin_y": 5}
+    },
+    "BPB0I16I": {
+        "binary_args": {
+            "lower_threshold": 100, "upper_threshold": 255,
+            "binary_type": "THRESH_BINARY", "open_close_type": "MORPH_OPEN",
+            "struct_element_tuple": [3, 3]},
+        "image_args": {
+            "die_height": 19, "die_width": 12,
+            "margin_x": 5, "margin_y": 5}
+    },
+    "BPB0Z54B": {
+        "binary_args": {
+            "lower_threshold": 70, "upper_threshold": 255,
+            "binary_type": "THRESH_BINARY", "open_close_type": "MORPH_OPEN",
+            "struct_element_tuple": [5, 5]},
+        "image_args": {
+            "die_height": 38, "die_width": 74,
+            "margin_x": 5, "margin_y": 5}
+    },
+    "BDW0S38B": {
+        "binary_args": {
+            "lower_threshold": 100, "upper_threshold": 255,
+            "binary_type": "THRESH_BINARY", "open_close_type": "MORPH_OPEN",
+            "struct_element_tuple": [5, 5]},
+        "image_args": {
+            "die_height": 28, "die_width": 50,
+            "margin_x": 5, "margin_y": 5}
+    },
+    "BPB0J49E": {
+        "binary_args": {
+            "lower_threshold": 80, "upper_threshold": 255,
+            "binary_type": "THRESH_BINARY", "open_close_type": "MORPH_OPEN",
+            "struct_element_tuple": [5, 5]},
+        "image_args": {
+            "die_height": 14, "die_width": 62,
+            "margin_x": 5, "margin_y": 5}
+    },
+    "BPB0X43H": {
+        "binary_args": {
+            "lower_threshold": 50, "upper_threshold": 255,
+            "binary_type": "THRESH_BINARY", "open_close_type": "MORPH_OPEN",
+            "struct_element_tuple": [5, 5]},
+        "image_args": {
+            "die_height": 32, "die_width": 56,
+            "margin_x": 5, "margin_y": 5}
+    },
+    "BOB1P43B": {
+        "binary_args": {
+            "lower_threshold": 70, "upper_threshold": 255,
+            "binary_type": "THRESH_BINARY", "open_close_type": "MORPH_OPEN",
+            "struct_element_tuple": [5, 5]},
+        "image_args": {
+            "die_height": 58, "die_width": 58,
+            "margin_x": 5, "margin_y": 5}
+    },
+    "BPB0H40A": {
+        "binary_args": {
+            "lower_threshold": 70, "upper_threshold": 255,
+            "binary_type": "THRESH_BINARY", "open_close_type": "MORPH_OPEN",
+            "struct_element_tuple": [5, 5]},
+        "image_args": {
+            "die_height": 12, "die_width": 56,
+            "margin_x": 5, "margin_y": 5}
+    },
+    "BPB0J49A": {
+        "binary_args": {
+            "lower_threshold": 70, "upper_threshold": 255,
+            "binary_type": "THRESH_BINARY", "open_close_type": "MORPH_OPEN",
+            "struct_element_tuple": [5, 5]},
+        "image_args": {
+            "die_height": 13, "die_width": 63,
+            "margin_x": 5, "margin_y": 5}
+    },
+    "BHM0L28F": {
+        "binary_args": {
+            "lower_threshold": 70, "upper_threshold": 255,
+            "binary_type": "THRESH_BINARY", "open_close_type": "MORPH_OPEN",
+            "struct_element_tuple": [5, 5]},
+        "image_args": {
+            "die_height": 16, "die_width": 36,
+            "margin_x": 5, "margin_y": 5}
+    },
+    "BPB0H13I": {
+        "binary_args": {
+            "lower_threshold": 0, "upper_threshold": 210,
+            "binary_type": "THRESH_BINARY", "open_close_type": "MORPH_OPEN",
+            "struct_element_tuple": [1, 1]},
+        "image_args": {
+            "die_height": 7, "die_width": 9,
+            "margin_x": 5, "margin_y": 5}
+    },
+    "BPJ0J48Z": {
+        "binary_args": {
+            "lower_threshold": 100, "upper_threshold": 255,
+            "binary_type": "THRESH_BINARY", "open_close_type": "MORPH_OPEN",
+            "struct_element_tuple": [5, 5]},
+        "image_args": {
+            "die_height": 14, "die_width": 62,
+            "margin_x": 5, "margin_y": 5}
+    },
+    "BPB0R37S": {
+        "binary_args": {
+            "lower_threshold": 70, "upper_threshold": 255,
+            "binary_type": "THRESH_BINARY", "open_close_type": "MORPH_OPEN",
+            "struct_element_tuple": [5, 5]},
+        "image_args": {
+            "die_height": 25, "die_width": 48,
+            "margin_x": 5, "margin_y": 5}
+    },
+    "BFB0F19N": {
+        "binary_args": {
+            "lower_threshold": 110, "upper_threshold": 255,
+            "binary_type": "THRESH_BINARY", "open_close_type": "MORPH_OPEN",
+            "struct_element_tuple": [1, 1]},
+        "image_args": {
+            "die_height": 27, "die_width": 8,
+            "margin_x": 5, "margin_y": 5}
+    },
+    "BPB0J49C": {
+        "binary_args": {
+            "lower_threshold": 70, "upper_threshold": 255,
+            "binary_type": "THRESH_BINARY", "open_close_type": "MORPH_OPEN",
+            "struct_element_tuple": [1, 1]},
+        "image_args": {
+            "die_height": 65, "die_width": 14,
+            "margin_x": 5, "margin_y": 5}
+    },
+    "BPB0I27T": {
+        "binary_args": {
+            "lower_threshold": 100, "upper_threshold": 255,
+            "binary_type": "THRESH_BINARY", "open_close_type": "MORPH_OPEN",
+            "struct_element_tuple": [1, 1]},
+        "image_args": {
+            "die_height": 34, "die_width": 10,
+            "margin_x": 5, "margin_y": 5}
+    },
+    "BPB0Z38P": {
+        "binary_args": {
+            "lower_threshold": 70, "upper_threshold": 255,
+            "binary_type": "THRESH_BINARY", "open_close_type": "MORPH_OPEN",
+            "struct_element_tuple": [1, 1]},
+        "image_args": {
+            "die_height": 52, "die_width": 37,
+            "margin_x": 5, "margin_y": 5}
+    },
+    "BPB0I27O": {
+        "binary_args": {
+            "lower_threshold": 70, "upper_threshold": 255,
+            "binary_type": "THRESH_BINARY", "open_close_type": "MORPH_OPEN",
+            "struct_element_tuple": [1, 1]},
+        "image_args": {
+            "die_height": 12, "die_width": 40,
+            "margin_x": 5, "margin_y": 5}
+    },
+    "BPB0I27X": {
+        "binary_args": {
+            "lower_threshold": 100, "upper_threshold": 255,
+            "binary_type": "THRESH_BINARY", "open_close_type": "MORPH_OPEN",
+            "struct_element_tuple": [1, 1]},
+        "image_args": {
+            "die_height": 35, "die_width": 12,
+            "margin_x": 5, "margin_y": 5}
+    },
+    "BPB0V37E": {
+        "binary_args": {
+            "lower_threshold": 100, "upper_threshold": 255,
+            "binary_type": "THRESH_BINARY", "open_close_type": "MORPH_OPEN",
+            "struct_element_tuple": [1, 1]},
+        "image_args": {
+            "die_height": 50, "die_width": 34,
+            "margin_x": 5, "margin_y": 5}
+    }
+}
